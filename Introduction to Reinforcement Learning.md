@@ -77,13 +77,4 @@ Notes from YT video: [An Introduction to Reinforcement Learning](https://www.you
 
 ---
 ## Legends
-
-| Short hand | Full form              |
-| ---------- | ---------------------- |
-| RL         | Reinforcement Learning |
-| ML         | Machine Learning       |
-| NN         | Neural Network         |
-| PG         | Policy Gradients       |
-| PN         | Policy Network         |
-
-
+For understanding shorthands, refer [[Legends]] file.
