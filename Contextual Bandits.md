@@ -53,6 +53,7 @@ $$
 
 ```ad-question
 Q. Difference between Value function and Policy?
+A. [[Value function Vs Reward function]]
 ```
 
 
