@@ -2,9 +2,18 @@ Notes from YT video: [Reinforcement Learning Chapter 2: Multi-Armed Bandits](htt
 
 ---
 
-Difference between RL and SL:
+- Difference between RL and SL:
 > RL evaluates actions taken rather than instructing with correct actions.
 
+- Contextual bandits are a special case of reinforcement learning where:
+	- You **observe some context** (info about the current situation).
+	- You **choose one action** from a set of possible actions.
+	- You **observe the reward** for **only the chosen action**.
+	- The goal is to **learn a policy** that selects the best action given the context, to maximize total reward over time.
+
+No environment transitions, no delayed rewards — just **context → action → reward**.
+
+---
 
 ## k-armed bandits
 ![[Pasted image 20250401170823.png | 300]]
